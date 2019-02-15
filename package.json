@@ -1,0 +1,22 @@
+{
+  "name": "javascripttesting",
+  "version": "1.0.0",
+  "description": "Basic Testing Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samareimorgan/javascripttesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samareimorgan/javascripttesting/issues"
+  },
+  "homepage": "https://github.com/Samareimorgan/javascripttesting#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
